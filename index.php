@@ -14,8 +14,9 @@
     <body bgcolor="#0033CC">
         <div class="container">
             <div class="hero-unit">
-                <h1>Test on Runnable.io</h1>
-                <p>very simple PHP Sample app &ldquo;<?php echo getenv('REMOTE_ADDR'); ?>; </p>
+                <h1>Simple PHP App</h1>
+                <h2>Congratulations!</h2>
+                <p>Your PHP application is now running in runnable &ldquo;<?php echo gethostname(); ?>&rdquo; in some &nbsp;Cloud.</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
         </div>
