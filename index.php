@@ -11,18 +11,14 @@
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
 
-    <body bgcolor="#0033CC">
+    <body bgcolor="#FF0000">
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App</h1>
-                <h2>Congratulations!</h2>
-                <p>Your PHP application is now running in runnable &ldquo;<?php echo gethostname(); ?>&rdquo; in some &nbsp;Cloud.</p>
-                <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
+                <h1>PHP Test App</h1>
+                <p>Your PHP application is now running in runnable &ldquo;<?php echo gethostname(); ?>&rdquo; presumably on EC2 somewhere.</p>
             </div>
         </div>
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
     </body>
 
 </html>
