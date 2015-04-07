@@ -11,12 +11,12 @@
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
 
-    <body bgcolor="#00FF00">
+    <body bgcolor="#0066CC">
         <div class="container">
             <div class="hero-unit">
                 <h1>PHP Test App</h1>
                 <p>Your PHP application is now running in runnable &ldquo;<?php echo gethostname(); ?>&rdquo; presumably on EC2 somewhere.</p>
-                <p>GREEN</p>
+                <p>BLUE</p>
             </div>
         </div>
 
