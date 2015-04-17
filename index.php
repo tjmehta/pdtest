@@ -11,16 +11,16 @@
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
 
-    <body bgcolor="#FF0066">
+    <body bgcolor="#0033CC">
         <div class="container">
             <div class="hero-unit">
                 <font size="3" color="red">This is some text!</font>
                 <font size="2" color="blue">This is some text!</font>
-                <font face="verdana" color="green">This is some text!</font>
+               
                 
-                <h1>PHP Test App</h1>
-                <p>Your PHP application is now running in runnable &ldquo;<?php echo gethostname(); ?>&rdquo; presumably on EC2 somewhere.</p>
-                <p>Pink!</p>
+                <h1><font face="verdana" color="yellow">Simple PHP Test Application</font></h1>
+                <p><font face="verdana" color="yellow" size="5">This simple PHP test application was deployed in a Runnable Sandbox!</font></p>
+                <p>font face="verdana" color="yellow" size="3">GitHub integration made this really simple for the developer...</font></p>
             </div>
         </div>
 
