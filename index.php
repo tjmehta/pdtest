@@ -14,6 +14,10 @@
     <body bgcolor="#FF0066">
         <div class="container">
             <div class="hero-unit">
+                <font size="3" color="red">This is some text!</font>
+                <font size="2" color="blue">This is some text!</font>
+                <font face="verdana" color="green">This is some text!</font>
+                
                 <h1>PHP Test App</h1>
                 <p>Your PHP application is now running in runnable &ldquo;<?php echo gethostname(); ?>&rdquo; presumably on EC2 somewhere.</p>
                 <p>Pink!</p>
