@@ -14,12 +14,12 @@
     <body bgcolor="#0033CC">
         <div class="container">
             <div class="hero-unit">
-                <font size="3" color="red">This is some text!</font>
-                <font size="2" color="blue">This is some text!</font>
-               
-                
                 <h1><font face="verdana" color="yellow">Simple PHP Test Application</font></h1>
+                <br>
+                <br>
                 <p><font face="verdana" color="yellow" size="5">This simple PHP test application was deployed in a Runnable Sandbox!</font></p>
+                <br>
+                <br>
                 <p>font face="verdana" color="yellow" size="3">GitHub integration made this really simple for the developer...</font></p>
             </div>
         </div>
