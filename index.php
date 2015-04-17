@@ -20,7 +20,7 @@
                 <p><font face="verdana" color="yellow" size="5">This simple PHP test application was deployed in a Runnable Sandbox!</font></p>
                 <br>
                 <br>
-                <p>font face="verdana" color="yellow" size="3">GitHub integration made this really simple for the developer...</font></p>
+                <p><font face="verdana" color="yellow" size="3">GitHub integration made this really simple for the developer...</font></p>
             </div>
         </div>
 
