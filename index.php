@@ -17,7 +17,7 @@
                 <h1><font face="verdana" color="yellow">Simple Hello Test Application</font></h1>
                 <br>
                 <br>
-                <h2><font face="verdana" color="yellow">Simple Hello Test Application</font></h2>
+                <h2><font face="verdana" color="yellow">Hey123</font></h2>
                 <br>
                 <br>
                 <p><font face="verdana" color="yellow" size="5">This simple PHP test application was deployed in a Runnable Sandbox!</font></p>
